@@ -1,0 +1,53 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F4E6C8"/>
+  <rect x="40" y="40" width="1520" height="820" rx="28" fill="#FFF9F1" stroke="#203449" stroke-width="4"/>
+  <text x="80" y="112" fill="#203449" font-size="48" font-family="Arial Black, sans-serif">Character Board</text>
+  <text x="80" y="152" fill="#2C6E91" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">Two humans + one orange cat, built for consistent sitcom generation</text>
+
+  <rect x="80" y="190" width="430" height="620" rx="24" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <circle cx="295" cy="330" r="86" fill="#E9C7A7"/>
+  <path d="M225 305C235 248 355 245 365 315V340H225V305Z" fill="#5B463A"/>
+  <rect x="235" y="414" width="120" height="230" rx="55" fill="#2C6E91"/>
+  <rect x="230" y="620" width="48" height="128" rx="20" fill="#425A6B"/>
+  <rect x="312" y="620" width="48" height="128" rx="20" fill="#425A6B"/>
+  <rect x="198" y="438" width="42" height="138" rx="21" transform="rotate(14 198 438)" fill="#2C6E91"/>
+  <rect x="356" y="436" width="42" height="138" rx="21" transform="rotate(-14 356 436)" fill="#2C6E91"/>
+  <circle cx="268" cy="330" r="10" fill="#203449"/>
+  <circle cx="322" cy="330" r="10" fill="#203449"/>
+  <path d="M278 360C290 366 302 366 314 360" stroke="#8E5B4A" stroke-width="6" stroke-linecap="round"/>
+  <rect x="250" y="314" width="36" height="28" rx="10" stroke="#203449" stroke-width="4"/>
+  <rect x="304" y="314" width="36" height="28" rx="10" stroke="#203449" stroke-width="4"/>
+  <line x1="286" y1="328" x2="304" y2="328" stroke="#203449" stroke-width="4"/>
+  <text x="112" y="714" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">ETHAN</text>
+  <text x="112" y="754" fill="#203449" font-size="22" font-family="Helvetica Neue, Arial, sans-serif">31 / witty tech nerd / blue hoodie / fast gestures</text>
+
+  <rect x="586" y="190" width="430" height="620" rx="24" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <circle cx="801" cy="330" r="86" fill="#F0D3BE"/>
+  <path d="M730 306C735 250 862 248 875 325C864 350 843 364 801 366C762 364 742 349 726 326L730 306Z" fill="#8A664F"/>
+  <rect x="748" y="414" width="106" height="220" rx="52" fill="#D1A82A"/>
+  <rect x="736" y="462" width="130" height="120" rx="30" fill="#FFF7EF"/>
+  <rect x="748" y="624" width="44" height="126" rx="20" fill="#405A4A"/>
+  <rect x="810" y="624" width="44" height="126" rx="20" fill="#405A4A"/>
+  <rect x="706" y="456" width="40" height="140" rx="20" transform="rotate(10 706 456)" fill="#D1A82A"/>
+  <rect x="856" y="456" width="40" height="140" rx="20" transform="rotate(-8 856 456)" fill="#D1A82A"/>
+  <circle cx="776" cy="330" r="10" fill="#203449"/>
+  <circle cx="828" cy="330" r="10" fill="#203449"/>
+  <path d="M784 361C792 356 806 356 818 361" stroke="#8E5B4A" stroke-width="6" stroke-linecap="round"/>
+  <text x="618" y="714" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">CHLOE</text>
+  <text x="618" y="754" fill="#203449" font-size="22" font-family="Helvetica Neue, Arial, sans-serif">29 / sharp comic timing / mustard cardigan / calm reactions</text>
+
+  <rect x="1092" y="190" width="428" height="620" rx="24" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <ellipse cx="1305" cy="500" rx="120" ry="90" fill="#E38939"/>
+  <ellipse cx="1280" cy="448" rx="72" ry="60" fill="#F4F0EA"/>
+  <circle cx="1245" cy="442" r="10" fill="#203449"/>
+  <circle cx="1293" cy="442" r="10" fill="#203449"/>
+  <path d="M1250 474C1262 485 1278 485 1291 474" stroke="#8E5B4A" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="1216,396 1246,354 1268,406" fill="#E38939"/>
+  <polygon points="1290,406 1315,352 1348,396" fill="#E38939"/>
+  <path d="M1390 492C1448 480 1468 560 1406 580" stroke="#E38939" stroke-width="26" stroke-linecap="round"/>
+  <rect x="1232" y="516" width="122" height="18" rx="9" fill="#FFF7EF"/>
+  <rect x="1260" y="528" width="66" height="28" rx="10" fill="#2C6E91"/>
+  <circle cx="1293" cy="542" r="5" fill="#C6D6E2"/>
+  <text x="1124" y="714" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">NACHO</text>
+  <text x="1124" y="754" fill="#203449" font-size="22" font-family="Helvetica Neue, Arial, sans-serif">orange cat / blue collar / smart feeder button specialist</text>
+</svg>

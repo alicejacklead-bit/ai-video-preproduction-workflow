@@ -1,0 +1,56 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="10" refY="7" orient="auto">
+      <path d="M0 0L14 7L0 14V0Z" fill="#203449"/>
+    </marker>
+  </defs>
+  <rect width="1600" height="900" fill="#F4E6C8"/>
+  <rect x="40" y="40" width="1520" height="820" rx="28" fill="#FFF9F1" stroke="#203449" stroke-width="4"/>
+  <text x="80" y="112" fill="#203449" font-size="48" font-family="Arial Black, sans-serif">Director Camera Map</text>
+  <text x="80" y="152" fill="#2C6E91" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">Top view: lock screen direction before generating any shot</text>
+
+  <rect x="130" y="220" width="980" height="560" rx="30" fill="#F8EDD8" stroke="#203449" stroke-width="3"/>
+  <rect x="180" y="268" width="220" height="170" rx="20" fill="#D8E9EE" stroke="#203449" stroke-width="3"/>
+  <text x="222" y="360" fill="#203449" font-size="30" font-family="Arial Black, sans-serif">KITCHEN</text>
+  <rect x="470" y="278" width="340" height="160" rx="26" fill="#CFB69A" stroke="#203449" stroke-width="3"/>
+  <text x="590" y="362" fill="#203449" font-size="30" font-family="Arial Black, sans-serif">SOFA</text>
+  <rect x="556" y="484" width="164" height="90" rx="18" fill="#B88D63" stroke="#203449" stroke-width="3"/>
+  <text x="580" y="536" fill="#FFF9F1" font-size="24" font-family="Arial Black, sans-serif">TABLE</text>
+  <rect x="872" y="296" width="168" height="236" rx="18" fill="#EEDCC0" stroke="#203449" stroke-width="3"/>
+  <text x="916" y="430" fill="#203449" font-size="30" font-family="Arial Black, sans-serif">DOOR</text>
+  <rect x="858" y="610" width="120" height="74" rx="18" fill="#F6C445" stroke="#203449" stroke-width="3"/>
+  <text x="876" y="654" fill="#203449" font-size="24" font-family="Arial Black, sans-serif">FEEDER</text>
+
+  <circle cx="370" cy="514" r="26" fill="#2C6E91"/>
+  <text x="332" y="558" fill="#203449" font-size="24" font-family="Arial Black, sans-serif">Ethan</text>
+  <circle cx="834" cy="560" r="26" fill="#D1A82A"/>
+  <text x="794" y="604" fill="#203449" font-size="24" font-family="Arial Black, sans-serif">Chloe</text>
+  <circle cx="780" cy="640" r="20" fill="#E38939"/>
+  <text x="734" y="680" fill="#203449" font-size="22" font-family="Arial Black, sans-serif">Nacho</text>
+
+  <rect x="150" y="678" width="80" height="52" rx="12" fill="#203449"/>
+  <text x="174" y="712" fill="#FFF9F1" font-size="28" font-family="Arial Black, sans-serif">A</text>
+  <line x1="232" y1="702" x2="542" y2="628" stroke="#203449" stroke-width="8" marker-end="url(#arrow)"/>
+
+  <rect x="1100" y="556" width="80" height="52" rx="12" fill="#203449"/>
+  <text x="1124" y="590" fill="#FFF9F1" font-size="28" font-family="Arial Black, sans-serif">B</text>
+  <line x1="1102" y1="580" x2="462" y2="520" stroke="#203449" stroke-width="8" marker-end="url(#arrow)"/>
+
+  <rect x="1088" y="646" width="80" height="52" rx="12" fill="#203449"/>
+  <text x="1110" y="680" fill="#FFF9F1" font-size="28" font-family="Arial Black, sans-serif">C</text>
+  <line x1="1088" y1="670" x2="860" y2="572" stroke="#203449" stroke-width="8" marker-end="url(#arrow)"/>
+
+  <rect x="628" y="734" width="80" height="52" rx="12" fill="#203449"/>
+  <text x="650" y="768" fill="#FFF9F1" font-size="28" font-family="Arial Black, sans-serif">D</text>
+  <line x1="668" y1="736" x2="852" y2="662" stroke="#203449" stroke-width="8" marker-end="url(#arrow)"/>
+
+  <rect x="1160" y="224" width="320" height="510" rx="22" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <text x="1194" y="274" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">Camera Roles</text>
+  <text x="1194" y="326" fill="#203449" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">A  Main wide. Establish room and keep both</text>
+  <text x="1194" y="362" fill="#203449" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">   characters in one sitcom frame.</text>
+  <text x="1194" y="420" fill="#203449" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">B  Reverse for Ethan. Chloe shoulder side.</text>
+  <text x="1194" y="476" fill="#203449" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">C  Reverse for Chloe. Ethan shoulder side.</text>
+  <text x="1194" y="532" fill="#203449" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">D  Low comedy reveal. Cat + feeder button.</text>
+  <text x="1194" y="612" fill="#2C6E91" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">Rule: every storyboard panel must inherit one</text>
+  <text x="1194" y="646" fill="#2C6E91" font-size="24" font-family="Helvetica Neue, Arial, sans-serif">camera ID so the room never flips direction.</text>
+</svg>

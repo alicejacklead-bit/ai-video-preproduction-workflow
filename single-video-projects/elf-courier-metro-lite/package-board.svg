@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <rect width="1800" height="1200" fill="#0d1217"/>
+  <rect x="32" y="32" width="1736" height="1136" rx="28" fill="#121922" stroke="#2ed0ff" stroke-width="3"/>
+  <text x="68" y="92" fill="#f4f8fc" font-size="44" font-family="Arial, Helvetica, sans-serif" font-weight="700">封装图</text>
+  <text x="68" y="128" fill="#89e0ff" font-size="21" font-family="Arial, Helvetica, sans-serif">精灵快递员地铁追逐 · 单条视频导演封装板</text>
+
+  <rect x="60" y="165" width="760" height="360" rx="22" fill="#10171f" stroke="#43576a" stroke-width="2"/>
+  <rect x="850" y="165" width="890" height="360" rx="22" fill="#10171f" stroke="#43576a" stroke-width="2"/>
+  <rect x="60" y="555" width="760" height="585" rx="22" fill="#10171f" stroke="#43576a" stroke-width="2"/>
+  <rect x="850" y="555" width="890" height="585" rx="22" fill="#10171f" stroke="#43576a" stroke-width="2"/>
+
+  <text x="86" y="210" fill="#f0f6fb" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">人物图区</text>
+  <text x="876" y="210" fill="#f0f6fb" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">场景图区</text>
+  <text x="86" y="600" fill="#f0f6fb" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">机位图区</text>
+  <text x="876" y="600" fill="#f0f6fb" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">核心分镜图区</text>
+
+  <rect x="88" y="230" width="220" height="255" rx="18" fill="#17212b" stroke="#566e80"/>
+  <rect x="330" y="230" width="220" height="255" rx="18" fill="#17212b" stroke="#566e80"/>
+  <rect x="572" y="230" width="220" height="255" rx="18" fill="#17212b" stroke="#566e80"/>
+  <text x="106" y="260" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">女主</text>
+  <text x="348" y="260" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">追兵</text>
+  <text x="590" y="260" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">摩托锁定</text>
+
+  <circle cx="198" cy="320" r="34" fill="#efd7c7"/>
+  <path d="M165 308 Q198 256 233 308 L224 336 Q198 352 172 338 Z" fill="#cfd8f8"/>
+  <path d="M236 321 l24 8 -20 12 z" fill="#d8e0fd"/>
+  <rect x="168" y="364" width="60" height="70" rx="16" fill="#1f2934" stroke="#6ce7ff" stroke-width="2"/>
+  <text x="108" y="454" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">银白高马尾</text>
+  <text x="108" y="479" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">紫色发光眼睛</text>
+
+  <circle cx="440" cy="320" r="32" fill="#9b7a66"/>
+  <rect x="412" y="330" width="56" height="24" rx="8" fill="#0b1014"/>
+  <rect x="410" y="364" width="60" height="70" rx="16" fill="#232c35"/>
+  <text x="348" y="454" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">秃头</text>
+  <text x="348" y="479" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">半脸呼吸面罩</text>
+
+  <rect x="608" y="308" width="74" height="36" rx="16" fill="#153454" stroke="#57d9ff"/>
+  <circle cx="626" cy="352" r="14" fill="#0b0f13" stroke="#6ce7ff"/>
+  <circle cx="663" cy="352" r="14" fill="#0b0f13" stroke="#6ce7ff"/>
+  <rect x="705" y="318" width="58" height="28" rx="14" fill="#101417" stroke="#5d6772"/>
+  <circle cx="719" cy="352" r="14" fill="#0b0f13" stroke="#7c8794"/>
+  <circle cx="751" cy="352" r="14" fill="#0b0f13" stroke="#7c8794"/>
+  <text x="590" y="454" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">女主车：深蓝 + 青蓝线条</text>
+  <text x="590" y="479" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">追兵车：哑光黑重型摩托</text>
+
+  <defs>
+    <linearGradient id="tunnelGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#163246"/>
+      <stop offset="100%" stop-color="#2b1f12"/>
+    </linearGradient>
+  </defs>
+  <rect x="878" y="230" width="834" height="255" rx="18" fill="url(#tunnelGlow)" stroke="#566e80"/>
+  <line x1="900" y1="440" x2="1675" y2="300" stroke="#31414e" stroke-width="130" stroke-linecap="round" opacity="0.55"/>
+  <line x1="905" y1="436" x2="1680" y2="296" stroke="#22303c" stroke-width="78" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="1580" cy="290" r="38" fill="#ffca6e" opacity="0.95"/>
+  <circle cx="1580" cy="290" r="72" fill="#ffca6e" opacity="0.18"/>
+  <text x="905" y="454" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">同一条老旧地铁隧道：潮湿混凝土、真实霓虹涂鸦、青蓝冷光、暖黄列车前灯</text>
+
+  <rect x="90" y="630" width="700" height="470" rx="18" fill="#141d26" stroke="#566e80"/>
+  <rect x="130" y="690" width="620" height="250" rx="20" fill="#0f1418" stroke="#415362"/>
+  <line x1="180" y1="815" x2="700" y2="815" stroke="#394955" stroke-width="84" stroke-linecap="round"/>
+  <rect x="560" y="760" width="120" height="110" rx="14" fill="#6f7b86"/>
+  <polygon points="312,790 368,772 368,808" fill="#2fd0ff"/>
+  <polygon points="485,808 541,790 541,826" fill="#ff7a45"/>
+  <rect x="248" y="774" width="52" height="22" rx="10" fill="#13385d" stroke="#57d9ff"/>
+  <circle cx="260" cy="801" r="11" fill="#0a1014" stroke="#57d9ff"/>
+  <circle cx="286" cy="801" r="11" fill="#0a1014" stroke="#57d9ff"/>
+  <rect x="420" y="792" width="58" height="24" rx="11" fill="#101417" stroke="#798390"/>
+  <circle cx="435" cy="821" r="12" fill="#0a1014" stroke="#798390"/>
+  <circle cx="463" cy="821" r="12" fill="#0a1014" stroke="#798390"/>
+  <line x1="138" y1="650" x2="228" y2="650" stroke="#2fd0ff" stroke-width="4"/>
+  <line x1="228" y1="650" x2="228" y2="720" stroke="#2fd0ff" stroke-width="4"/>
+  <text x="240" y="656" fill="#cce8f6" font-size="18" font-family="Arial, Helvetica, sans-serif">追逐方向</text>
+  <line x1="620" y1="650" x2="710" y2="650" stroke="#ffb85d" stroke-width="4"/>
+  <line x1="710" y1="650" x2="710" y2="720" stroke="#ffb85d" stroke-width="4"/>
+  <text x="535" y="656" fill="#ffe0b4" font-size="18" font-family="Arial, Helvetica, sans-serif">列车迎面方向</text>
+  <text x="130" y="973" fill="#edf6fb" font-size="19" font-family="Arial, Helvetica, sans-serif">蓝箭头：女主路线</text>
+  <text x="330" y="973" fill="#edf6fb" font-size="19" font-family="Arial, Helvetica, sans-serif">橙箭头：列车来向</text>
+  <text x="130" y="1005" fill="#edf6fb" font-size="19" font-family="Arial, Helvetica, sans-serif">灰色块：迎面列车</text>
+  <text x="130" y="1037" fill="#edf6fb" font-size="19" font-family="Arial, Helvetica, sans-serif">关键规则：沿列车外侧与墙之间狭缝通过，不是穿过列车实体</text>
+
+  <rect x="876" y="630" width="390" height="220" rx="18" fill="#17212b" stroke="#566e80"/>
+  <rect x="1320" y="630" width="390" height="220" rx="18" fill="#17212b" stroke="#566e80"/>
+  <rect x="876" y="890" width="390" height="220" rx="18" fill="#17212b" stroke="#566e80"/>
+  <rect x="1320" y="890" width="390" height="220" rx="18" fill="#17212b" stroke="#566e80"/>
+
+  <text x="896" y="662" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">1. 开场低机位追逐</text>
+  <text x="1340" y="662" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">2. 后视镜逼近 + 列车出现</text>
+  <text x="896" y="922" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">3. 像素化贴边穿越狭缝</text>
+  <text x="1340" y="922" fill="#cae7f5" font-size="20" font-family="Arial, Helvetica, sans-serif">4. 回头按键 + 闸门落下</text>
+
+  <line x1="920" y1="790" x2="1170" y2="745" stroke="#31414e" stroke-width="54" stroke-linecap="round"/>
+  <rect x="965" y="748" width="44" height="18" rx="8" fill="#153454" stroke="#57d9ff"/>
+  <rect x="1048" y="733" width="48" height="18" rx="8" fill="#101417" stroke="#798390"/>
+
+  <rect x="1382" y="720" width="78" height="52" rx="16" fill="#ffca6e" opacity="0.85"/>
+  <line x1="1372" y1="790" x2="1650" y2="728" stroke="#31414e" stroke-width="54" stroke-linecap="round"/>
+  <circle cx="1508" cy="760" r="16" fill="#b46cff"/>
+
+  <line x1="922" y1="1020" x2="1170" y2="972" stroke="#31414e" stroke-width="54" stroke-linecap="round"/>
+  <rect x="1040" y="945" width="38" height="14" rx="7" fill="#2fd0ff"/>
+  <line x1="1040" y1="945" x2="1080" y2="959" stroke="#7fe7ff" stroke-width="10" stroke-linecap="round"/>
+  <text x="894" y="1072" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">先交代几何关系，再上像素化效果</text>
+
+  <circle cx="1425" cy="972" r="20" fill="#b46cff"/>
+  <rect x="1520" y="944" width="12" height="96" rx="6" fill="#7b8791"/>
+  <path d="M1410 1016 Q1458 970 1500 1012" fill="none" stroke="#ff884d" stroke-width="12" stroke-linecap="round"/>
+  <text x="1340" y="1072" fill="#edf6fb" font-size="18" font-family="Arial, Helvetica, sans-serif">追兵急刹失败，女主落闸截断</text>
+
+  <text x="66" y="1160" fill="#89a7bb" font-size="18" font-family="Arial, Helvetica, sans-serif">说明：封装图用于统一角色、场景、机位、分镜与连续性规则，避免做成纯海报或纯炫技拼贴。</text>
+</svg>

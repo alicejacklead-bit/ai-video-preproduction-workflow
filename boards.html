@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 视频生成前期工作流</title>
+  <style>
+    :root {
+      --bg: #f4e6c8;
+      --paper: #fff9f1;
+      --ink: #203449;
+      --accent: #2c6e91;
+      --warm: #f6c445;
+      --border: #203449;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+      background: linear-gradient(180deg, #f6edd8 0%, var(--bg) 100%);
+      color: var(--ink);
+    }
+    .wrap {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 32px;
+    }
+    .hero {
+      background: var(--paper);
+      border: 3px solid var(--border);
+      border-radius: 28px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+    }
+    h1, h2, h3 { margin: 0; }
+    h1 {
+      font-family: "Bricolage Grotesque", "Arial Black", sans-serif;
+      font-size: 46px;
+      line-height: 1.05;
+    }
+    .sub {
+      margin-top: 10px;
+      color: var(--accent);
+      font-size: 20px;
+    }
+    .chips {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 18px;
+    }
+    .chip {
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: var(--warm);
+      font-weight: 700;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+    .card {
+      background: var(--paper);
+      border: 3px solid var(--border);
+      border-radius: 28px;
+      padding: 20px;
+    }
+    .card h2 {
+      font-family: "Bricolage Grotesque", "Arial Black", sans-serif;
+      font-size: 28px;
+      margin-bottom: 6px;
+    }
+    .card p {
+      margin: 0 0 16px;
+      color: var(--accent);
+    }
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 18px;
+      border: 2px solid rgba(32, 52, 73, 0.18);
+      background: #fff;
+    }
+    .links {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-top: 14px;
+    }
+    a {
+      color: var(--ink);
+      font-weight: 700;
+    }
+    @media (max-width: 980px) {
+      .grid { grid-template-columns: 1fr; }
+      h1 { font-size: 34px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <h1>AI 视频生成前期工作流</h1>
+      <div class="sub">先固定角色、空间、机位和分镜，再把完整资产链交给视频模型生成。当前页面展示的是其中一个情景喜剧示例项目。</div>
+      <div class="chips">
+        <div class="chip">通用导演前置流程</div>
+        <div class="chip">示例项目：情景喜剧</div>
+        <div class="chip">可扩展到多类型视频</div>
+      </div>
+      <div class="links">
+        <a href="./docs/plan-demo.md">查看导演方案</a>
+        <a href="./andy-ai-video-generation-workflow.md">查看方法论</a>
+        <a href="./prompts/showcase-video-prompt.txt">成片提示词</a>
+        <a href="./copy/release-copy.md">发布文案</a>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>成片封装图</h2>
+        <p>集中呈现剧情、角色关系、空间信息和反转时刻。</p>
+        <img src="./assets/package-showcase.svg" alt="成片封装图" />
+      </article>
+      <article class="card">
+        <h2>分镜图</h2>
+        <p>把叙事节奏、镜头职责和笑点落点提前固定下来。</p>
+        <img src="./assets/storyboard-showcase.svg" alt="分镜图" />
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>人物形象图</h2>
+        <p>固定 Ethan、Chloe、Nacho 的辨识度。</p>
+        <img src="./assets/character-board.svg" alt="人物形象图" />
+      </article>
+      <article class="card">
+        <h2>场景图</h2>
+        <p>固定客厅、公寓入口、厨房和猫的移动路线。</p>
+        <img src="./assets/scene-layout.svg" alt="场景图" />
+      </article>
+      <article class="card">
+        <h2>导演机位图</h2>
+        <p>用 A、B、C、D 四个机位稳定正反打和笑点揭晓。</p>
+        <img src="./assets/director-camera-map.svg" alt="导演机位图" />
+      </article>
+    </section>
+  </div>
+</body>
+</html>

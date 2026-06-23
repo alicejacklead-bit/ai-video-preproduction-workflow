@@ -1,0 +1,25 @@
+<svg width="1800" height="1200" viewBox="0 0 1800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="1200" fill="#F4E6C8"/>
+  <rect x="36" y="36" width="1728" height="1128" rx="34" fill="#FFF9F1" stroke="#203449" stroke-width="4"/>
+  <text x="70" y="110" fill="#203449" font-size="58" font-family="Arial Black, sans-serif">Package 01 / Sitcom Showcase</text>
+  <text x="70" y="154" fill="#2C6E91" font-size="28" font-family="Helvetica Neue, Arial, sans-serif">The Cat Solved Dinner First</text>
+
+  <rect x="70" y="198" width="500" height="406" rx="28" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <text x="100" y="246" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">01 Character Board</text>
+  <image href="/Users/d/codex/视频制作/assets/character-board.svg" x="94" y="274" width="452" height="300"/>
+
+  <rect x="604" y="198" width="560" height="406" rx="28" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <text x="634" y="246" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">02 Scene Board</text>
+  <image href="/Users/d/codex/视频制作/assets/scene-layout.svg" x="628" y="274" width="512" height="300"/>
+
+  <rect x="1198" y="198" width="532" height="406" rx="28" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <text x="1228" y="246" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">03 Director Camera Map</text>
+  <image href="/Users/d/codex/视频制作/assets/director-camera-map.svg" x="1222" y="274" width="484" height="300"/>
+
+  <rect x="70" y="642" width="1660" height="470" rx="28" fill="#FAF3E6" stroke="#203449" stroke-width="3"/>
+  <text x="100" y="690" fill="#203449" font-size="34" font-family="Arial Black, sans-serif">04 Core Storyboard</text>
+  <image href="/Users/d/codex/视频制作/assets/storyboard-showcase.svg" x="94" y="720" width="1612" height="350"/>
+
+  <rect x="1388" y="70" width="338" height="92" rx="20" fill="#F6C445"/>
+  <text x="1432" y="128" fill="#203449" font-size="30" font-family="Arial Black, sans-serif">16:9 / 15s / Comedy</text>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Video Workflow"
+  short_description: "Plan controllable AI video workflows"
+  default_prompt: "Use $ai-video-preproduction-workflow to turn this video idea into a controllable preproduction workflow package."

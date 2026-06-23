@@ -1,5 +1,14 @@
 # AI 视频生成前期工作流
 
+这个仓库现在同时是一个可安装的 Codex skill。仓库根目录包含 `SKILL.md`、`agents/openai.yaml` 和 `references/`，可以作为独立 skill 使用。
+
+## 安装
+
+在 Codex 里可按 GitHub 仓库方式安装这个 skill：
+
+- Repository: `alicejacklead-bit/ai-video-preproduction-workflow`
+- Skill name: `ai-video-preproduction-workflow`
+
 这是一个用于 AI 视频创作的前期控制工作流仓库，核心思路是先完成导演层定义，再进入生成阶段。项目通过 `创意选题 -> Plan Demo -> 人物形象图 -> 场景图 -> 导演机位图 -> 分镜图 -> 封装图 -> 视频提示词` 这一套资产链，尽量稳定角色一致性、空间连续性与镜头逻辑。
 
 ## 项目目标
